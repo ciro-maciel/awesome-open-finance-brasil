@@ -1,0 +1,327 @@
+{
+    "slug": "awesome-open-finance-brasil",
+    "campaign": "awesome-open-finance-brasil",
+    "linkPrefix": "ofbr",
+    "title": "Awesome Open Finance Brasil",
+    "description": "Open Finance e Open Insurance no Brasil: normas, especificações, dados abertos, agregadores e código aberto.",
+    "intro": "Para quem vai ler dados de conta ou iniciar pagamento por Open Finance, como participante ou como cliente de um agregador. Começa pelo Banco Central e pela governança, passa pelas especificações oficiais e termina no código aberto da comunidade. Cada endereço foi aberto antes de entrar.",
+    "glossary": "Open Finance, Open Insurance, Open Banking, Susep, FAPI, DICT, Pix, Pix Automático, COMPE, OpenAPI, Docker, MCP and every company name are proper names; keep them.",
+    "topics": [
+        "open-finance",
+        "open-banking",
+        "open-insurance",
+        "fintech",
+        "banco-central",
+        "pix"
+    ],
+    "categories": [
+        {
+            "id": "normas",
+            "title": "Normas e governança",
+            "description": "Quem regula e onde estão as regras.",
+            "items": [
+                {
+                    "name": "Open Finance no Banco Central",
+                    "url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+                    "description": "A página do Banco Central com a regulamentação, as fases e as perguntas frequentes.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Open Finance Brasil",
+                    "url": "https://openfinancebrasil.org.br/",
+                    "description": "O portal da estrutura de governança, para cidadãos e participantes.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Open Insurance na Susep",
+                    "url": "https://www.gov.br/susep/pt-br/assuntos/open-insurance",
+                    "description": "O sistema de seguros aberto, regulado pela Susep.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Open Insurance Brasil",
+                    "url": "https://opinbrasil.com.br/",
+                    "description": "O portal da estrutura do Open Insurance.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "especificacoes",
+            "title": "Especificações e área do desenvolvedor",
+            "description": "O que um participante implementa.",
+            "items": [
+                {
+                    "name": "Área do desenvolvedor",
+                    "url": "https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview",
+                    "description": "As especificações das APIs, de segurança e de experiência do usuário.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "OpenAPI do Open Finance",
+                    "url": "https://github.com/OpenBanking-Brasil/openapi",
+                    "description": "Os arquivos OpenAPI oficiais das APIs.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Especificações de segurança",
+                    "url": "https://github.com/OpenBanking-Brasil/specs-seguranca",
+                    "description": "Os perfis de segurança FAPI e o uso de certificados no ecossistema.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Especificações do diretório",
+                    "url": "https://github.com/OpenBanking-Brasil/specs-directory",
+                    "description": "Como funciona o diretório central de participantes.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Mock API",
+                    "url": "https://github.com/OpenBanking-Brasil/mock-api",
+                    "description": "Imagem Docker com respostas de exemplo das APIs, para testar sem um banco.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Massa de dados",
+                    "url": "https://github.com/OpenBanking-Brasil/massadedados",
+                    "description": "Dados de teste para as APIs.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Aplicações de exemplo",
+                    "url": "https://github.com/OpenBanking-Brasil/applications-exemplo",
+                    "description": "Exemplos de aplicações que consomem as APIs.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "dados-abertos",
+            "title": "Dados abertos do ecossistema",
+            "description": "O que qualquer um pode consultar.",
+            "items": [
+                {
+                    "name": "Participantes",
+                    "url": "https://data.directory.openbankingbrasil.org.br/participants",
+                    "description": "A lista pública de instituições participantes, em JSON.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Painel do Open Finance",
+                    "url": "https://dashboard.openfinancebrasil.org.br/",
+                    "description": "Os números do ecossistema: chamadas de API, consentimentos e disponibilidade.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "agregadores",
+            "title": "Agregadores e iniciadores",
+            "description": "Quem conecta as contas por você. Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "Belvo",
+                    "url": "https://developers.belvo.com/",
+                    "description": "API de dados financeiros e pagamentos via Open Finance.",
+                    "tags": [
+                        "api",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Iniciador",
+                    "url": "https://www.iniciador.com.br/",
+                    "description": "Iniciação de pagamentos por Open Finance.",
+                    "tags": [
+                        "api",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Klavi",
+                    "url": "https://docs.klavi.ai/",
+                    "description": "Dados de Open Finance para crédito e análise de risco.",
+                    "tags": [
+                        "api",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Pluggy",
+                    "url": "https://docs.pluggy.ai/",
+                    "description": "API para conectar contas e ler transações via Open Finance.",
+                    "tags": [
+                        "api",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "codigo",
+            "title": "Código aberto",
+            "description": "Referências, clientes e servidores MCP feitos pela comunidade.",
+            "items": [
+                {
+                    "name": "Meu Pluggy",
+                    "url": "https://github.com/pluggyai/meu-pluggy",
+                    "description": "Aplicação para conectar a própria conta ao Open Finance e exportar os dados.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "pix-automatico-reference",
+                    "url": "https://github.com/Paulo-Marcos-Lucio/pix-automatico-reference",
+                    "description": "Implementação de referência do Pix Automático com o fluxo de consentimento.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "open-finance-payments-reference",
+                    "url": "https://github.com/Paulo-Marcos-Lucio/open-finance-payments-reference",
+                    "description": "Implementação de referência em Java de um iniciador de pagamento.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "regulatorio-bcb-fundamentos",
+                    "url": "https://github.com/Paulo-Marcos-Lucio/regulatorio-bcb-fundamentos-public",
+                    "description": "Guia técnico introdutório a Pix, DICT, Open Finance e Susep.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "pluggy-mcp-server",
+                    "url": "https://github.com/brunopedrazza/pluggy-mcp-server",
+                    "description": "Servidor MCP somente leitura para dados financeiros pessoais via Pluggy.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "banco-mcp",
+                    "url": "https://github.com/douglac/banco-mcp",
+                    "description": "Servidor MCP de Open Finance para Claude e Cursor.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "logos-bancos-br",
+                    "url": "https://github.com/rzmt/logos-bancos-br",
+                    "description": "Logos de bancos, fintechs e cooperativas brasileiras em PNG e SVG, por código COMPE.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "outras-listas",
+            "title": "Outras listas",
+            "description": "Listas irmãs.",
+            "items": [
+                {
+                    "name": "Awesome Pix",
+                    "url": "https://github.com/ciro-maciel/awesome-pix",
+                    "description": "Normas, APIs e SDKs de Pix.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome pagamentos Brasil",
+                    "url": "https://github.com/ciro-maciel/awesome-pagamentos-brasil",
+                    "description": "Gateways, adquirentes, boleto e antifraude.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        }
+    ]
+}
