@@ -1,0 +1,363 @@
+{
+  "slug": "awesome-open-finance-brasil",
+  "language": "vi",
+  "title": "Awesome Open Finance Brasil",
+  "description": "Open Finance và Open Insurance tại Brazil: quy định, đặc tả, dữ liệu mở, đơn vị tổng hợp và mã nguồn mở.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "normas",
+      "title": "Quy định và quản trị",
+      "items": [
+        {
+          "name": "Open Finance no Banco Central",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-no-banco-central",
+          "description": "Trang của Ngân hàng Trung ương với quy định, các giai đoạn và câu hỏi thường gặp.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Finance Brasil",
+          "url": "https://openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-brasil",
+          "description": "Cổng của cấu trúc quản trị, dành cho công dân và các bên tham gia.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance na Susep",
+          "url": "https://www.gov.br/susep/pt-br/assuntos/open-insurance",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-na-susep",
+          "description": "Hệ thống bảo hiểm mở, do Susep điều tiết.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance Brasil",
+          "url": "https://opinbrasil.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-brasil",
+          "description": "Cổng của cấu trúc Open Insurance.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "especificacoes",
+      "title": "Đặc tả và khu vực nhà phát triển",
+      "items": [
+        {
+          "name": "Área do desenvolvedor",
+          "url": "https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview",
+          "link": "https://go.mymarketing.click/ofbr-area-do-desenvolvedor",
+          "description": "Đặc tả của các API, về bảo mật và trải nghiệm người dùng.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAPI do Open Finance",
+          "url": "https://github.com/OpenBanking-Brasil/openapi",
+          "link": "https://go.mymarketing.click/ofbr-openapi-do-open-finance",
+          "description": "Các tệp OpenAPI chính thức của API.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações de segurança",
+          "url": "https://github.com/OpenBanking-Brasil/specs-seguranca",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-de-seguranca",
+          "description": "Hồ sơ bảo mật FAPI và cách dùng chứng chỉ trong hệ sinh thái.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações do diretório",
+          "url": "https://github.com/OpenBanking-Brasil/specs-directory",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-do-diretorio",
+          "description": "Cách hoạt động của danh bạ trung tâm các bên tham gia.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mock API",
+          "url": "https://github.com/OpenBanking-Brasil/mock-api",
+          "link": "https://go.mymarketing.click/ofbr-mock-api",
+          "description": "Image Docker với phản hồi mẫu của API, để thử nghiệm mà không cần ngân hàng.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Massa de dados",
+          "url": "https://github.com/OpenBanking-Brasil/massadedados",
+          "link": "https://go.mymarketing.click/ofbr-massa-de-dados",
+          "description": "Dữ liệu thử nghiệm cho các API.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Aplicações de exemplo",
+          "url": "https://github.com/OpenBanking-Brasil/applications-exemplo",
+          "link": "https://go.mymarketing.click/ofbr-aplicacoes-de-exemplo",
+          "description": "Ví dụ về các ứng dụng sử dụng API.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "Dữ liệu mở của hệ sinh thái",
+      "items": [
+        {
+          "name": "Participantes",
+          "url": "https://data.directory.openbankingbrasil.org.br/participants",
+          "link": "https://go.mymarketing.click/ofbr-participantes",
+          "description": "Danh sách công khai các tổ chức tham gia, dạng JSON.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Painel do Open Finance",
+          "url": "https://dashboard.openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-painel-do-open-finance",
+          "description": "Các con số của hệ sinh thái: lượt gọi API, sự đồng ý và mức khả dụng.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agregadores",
+      "title": "Tổng hợp và khởi tạo",
+      "items": [
+        {
+          "name": "Belvo",
+          "url": "https://developers.belvo.com/",
+          "link": "https://go.mymarketing.click/ofbr-belvo",
+          "description": "API dữ liệu tài chính và thanh toán qua Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Iniciador",
+          "url": "https://www.iniciador.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-iniciador",
+          "description": "Khởi tạo thanh toán qua Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Klavi",
+          "url": "https://docs.klavi.ai/",
+          "link": "https://go.mymarketing.click/ofbr-klavi",
+          "description": "Dữ liệu Open Finance cho tín dụng và phân tích rủi ro.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pluggy",
+          "url": "https://docs.pluggy.ai/",
+          "link": "https://go.mymarketing.click/ofbr-pluggy",
+          "description": "API kết nối tài khoản và đọc giao dịch qua Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "codigo",
+      "title": "Mã nguồn mở",
+      "items": [
+        {
+          "name": "Meu Pluggy",
+          "url": "https://github.com/pluggyai/meu-pluggy",
+          "link": "https://go.mymarketing.click/ofbr-meu-pluggy",
+          "description": "Ứng dụng kết nối tài khoản của chính bạn với Open Finance và xuất dữ liệu.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pix-automatico-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/pix-automatico-reference",
+          "link": "https://go.mymarketing.click/ofbr-pix-automatico-reference",
+          "description": "Triển khai tham chiếu của Pix Automático với luồng đồng ý.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "open-finance-payments-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/open-finance-payments-reference",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-payments-reference",
+          "description": "Triển khai tham chiếu bằng Java của một bộ khởi tạo thanh toán.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regulatorio-bcb-fundamentos",
+          "url": "https://github.com/Paulo-Marcos-Lucio/regulatorio-bcb-fundamentos-public",
+          "link": "https://go.mymarketing.click/ofbr-regulatorio-bcb-fundamentos",
+          "description": "Hướng dẫn kỹ thuật nhập môn về Pix, DICT, Open Finance và Susep.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pluggy-mcp-server",
+          "url": "https://github.com/brunopedrazza/pluggy-mcp-server",
+          "link": "https://go.mymarketing.click/ofbr-pluggy-mcp-server",
+          "description": "Máy chủ MCP chỉ đọc cho dữ liệu tài chính cá nhân qua Pluggy.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "banco-mcp",
+          "url": "https://github.com/douglac/banco-mcp",
+          "link": "https://go.mymarketing.click/ofbr-banco-mcp",
+          "description": "Máy chủ MCP Open Finance cho Claude và Cursor.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "logos-bancos-br",
+          "url": "https://github.com/rzmt/logos-bancos-br",
+          "link": "https://go.mymarketing.click/ofbr-logos-bancos-br",
+          "description": "Logo của ngân hàng, fintech và hợp tác xã tín dụng Brazil ở định dạng PNG và SVG, theo mã COMPE.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Danh sách khác",
+      "items": [
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pix",
+          "description": "Quy chuẩn, API và SDK của Pix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome pagamentos Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-pagamentos-brasil",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pagamentos-brasil",
+          "description": "Cổng thanh toán, đơn vị thu single acquirer, boleto và chống gian lận.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

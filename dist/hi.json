@@ -1,0 +1,363 @@
+{
+  "slug": "awesome-open-finance-brasil",
+  "language": "hi",
+  "title": "Awesome Open Finance Brasil",
+  "description": "Open Finance और Open Insurance in Brazil: नियम, विनिर्देश, खुला डेटा, एग्रीगेटर और ओपन सोर्स कोड।",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "normas",
+      "title": "नॉर्म्स और गवर्नेंस",
+      "items": [
+        {
+          "name": "Open Finance no Banco Central",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-no-banco-central",
+          "description": "Banco Central का पेज, जिसमें नियम, चरण और अक्सर पूछे जाने वाले सवाल हैं।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Finance Brasil",
+          "url": "https://openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-brasil",
+          "description": "गवर्नेंस संरचना का पोर्टल, नागरिकों और प्रतिभागियों के लिए।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance na Susep",
+          "url": "https://www.gov.br/susep/pt-br/assuntos/open-insurance",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-na-susep",
+          "description": "खुला बीमा तंत्र, जिसे Susep नियंत्रित करता है।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance Brasil",
+          "url": "https://opinbrasil.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-brasil",
+          "description": "Open Insurance संरचना का पोर्टल।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "especificacoes",
+      "title": "स्पेसिफिकेशन और डेवलपर क्षेत्र",
+      "items": [
+        {
+          "name": "Área do desenvolvedor",
+          "url": "https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview",
+          "link": "https://go.mymarketing.click/ofbr-area-do-desenvolvedor",
+          "description": "APIs, सुरक्षा और उपयोगकर्ता अनुभव के स्पेसिफिकेशन।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAPI do Open Finance",
+          "url": "https://github.com/OpenBanking-Brasil/openapi",
+          "link": "https://go.mymarketing.click/ofbr-openapi-do-open-finance",
+          "description": "APIs की आधिकारिक OpenAPI फ़ाइलें।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações de segurança",
+          "url": "https://github.com/OpenBanking-Brasil/specs-seguranca",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-de-seguranca",
+          "description": "इकोसिस्टम में FAPI सुरक्षा प्रोफ़ाइल और प्रमाणपत्रों का उपयोग।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações do diretório",
+          "url": "https://github.com/OpenBanking-Brasil/specs-directory",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-do-diretorio",
+          "description": "प्रतिभागियों की केंद्रीय डायरेक्टरी कैसे काम करती है।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mock API",
+          "url": "https://github.com/OpenBanking-Brasil/mock-api",
+          "link": "https://go.mymarketing.click/ofbr-mock-api",
+          "description": "Docker इमेज जिसमें APIs के उदाहरण जवाब हैं, बिना बैंक के टेस्ट करने के लिए।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Massa de dados",
+          "url": "https://github.com/OpenBanking-Brasil/massadedados",
+          "link": "https://go.mymarketing.click/ofbr-massa-de-dados",
+          "description": "APIs के लिए टेस्ट डेटा।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Aplicações de exemplo",
+          "url": "https://github.com/OpenBanking-Brasil/applications-exemplo",
+          "link": "https://go.mymarketing.click/ofbr-aplicacoes-de-exemplo",
+          "description": "उन एप्लिकेशन के उदाहरण जो APIs का उपयोग करते हैं।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "इकोसिस्टम का ओपन डेटा",
+      "items": [
+        {
+          "name": "Participantes",
+          "url": "https://data.directory.openbankingbrasil.org.br/participants",
+          "link": "https://go.mymarketing.click/ofbr-participantes",
+          "description": "भाग लेने वाले संस्थानों की सार्वजनिक सूची, JSON में।",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Painel do Open Finance",
+          "url": "https://dashboard.openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-painel-do-open-finance",
+          "description": "इकोसिस्टम के आंकड़े: API कॉल, सहमति और उपलब्धता।",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agregadores",
+      "title": "एग्रीगेटर और इनिशिएटर",
+      "items": [
+        {
+          "name": "Belvo",
+          "url": "https://developers.belvo.com/",
+          "link": "https://go.mymarketing.click/ofbr-belvo",
+          "description": "Open Finance के ज़रिए वित्तीय डेटा और भुगतान के लिए API।",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Iniciador",
+          "url": "https://www.iniciador.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-iniciador",
+          "description": "Open Finance के ज़रिए भुगतान शुरू करना।",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Klavi",
+          "url": "https://docs.klavi.ai/",
+          "link": "https://go.mymarketing.click/ofbr-klavi",
+          "description": "क्रेडिट और जोखिम विश्लेषण के लिए Open Finance डेटा।",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pluggy",
+          "url": "https://docs.pluggy.ai/",
+          "link": "https://go.mymarketing.click/ofbr-pluggy",
+          "description": "Open Finance के ज़रिए खाते जोड़ने और लेन-देन पढ़ने के लिए API।",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "codigo",
+      "title": "ओपन सोर्स",
+      "items": [
+        {
+          "name": "Meu Pluggy",
+          "url": "https://github.com/pluggyai/meu-pluggy",
+          "link": "https://go.mymarketing.click/ofbr-meu-pluggy",
+          "description": "अपना खाता Open Finance से जोड़ने और डेटा एक्सपोर्ट करने के लिए एप्लिकेशन।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pix-automatico-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/pix-automatico-reference",
+          "link": "https://go.mymarketing.click/ofbr-pix-automatico-reference",
+          "description": "सहमति प्रवाह के साथ Pix Automático का संदर्भ कार्यान्वयन।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "open-finance-payments-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/open-finance-payments-reference",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-payments-reference",
+          "description": "Java में भुगतान इनिशिएटर का संदर्भ कार्यान्वयन।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regulatorio-bcb-fundamentos",
+          "url": "https://github.com/Paulo-Marcos-Lucio/regulatorio-bcb-fundamentos-public",
+          "link": "https://go.mymarketing.click/ofbr-regulatorio-bcb-fundamentos",
+          "description": "Pix, DICT, Open Finance और Susep की शुरुआती तकनीकी गाइड।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pluggy-mcp-server",
+          "url": "https://github.com/brunopedrazza/pluggy-mcp-server",
+          "link": "https://go.mymarketing.click/ofbr-pluggy-mcp-server",
+          "description": "Pluggy के ज़रिए निजी वित्तीय डेटा के लिए केवल-पढ़ने वाला MCP सर्वर।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "banco-mcp",
+          "url": "https://github.com/douglac/banco-mcp",
+          "link": "https://go.mymarketing.click/ofbr-banco-mcp",
+          "description": "Claude और Cursor के लिए Open Finance MCP सर्वर।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "logos-bancos-br",
+          "url": "https://github.com/rzmt/logos-bancos-br",
+          "link": "https://go.mymarketing.click/ofbr-logos-bancos-br",
+          "description": "PNG और SVG में ब्राज़ीलियाई बैंकों, fintechs और सहकारी समितियों के लोगो, COMPE कोड के अनुसार।",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "अन्य सूचियाँ",
+      "items": [
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pix",
+          "description": "Pix के मानक, APIs और SDKs।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome pagamentos Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-pagamentos-brasil",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pagamentos-brasil",
+          "description": "गेटवे, एक्वायरर, बोलेटो और धोखाधड़ी-रोधी टूल।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

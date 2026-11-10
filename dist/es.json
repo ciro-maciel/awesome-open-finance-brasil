@@ -1,0 +1,363 @@
+{
+  "slug": "awesome-open-finance-brasil",
+  "language": "es",
+  "title": "Awesome Open Finance Brasil",
+  "description": "Open Finance e Open Insurance en Brasil: normas, especificaciones, datos abiertos, agregadores y código abierto.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "normas",
+      "title": "Normas y gobernanza",
+      "items": [
+        {
+          "name": "Open Finance no Banco Central",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-no-banco-central",
+          "description": "La página del Banco Central con la regulación, las fases y las preguntas frecuentes.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Finance Brasil",
+          "url": "https://openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-brasil",
+          "description": "El portal de la estructura de gobernanza, para ciudadanos y participantes.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance na Susep",
+          "url": "https://www.gov.br/susep/pt-br/assuntos/open-insurance",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-na-susep",
+          "description": "El sistema de seguros abierto, regulado por la Susep.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance Brasil",
+          "url": "https://opinbrasil.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-brasil",
+          "description": "El portal de la estructura de Open Insurance.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "especificacoes",
+      "title": "Especificaciones y área de desarrollador",
+      "items": [
+        {
+          "name": "Área do desenvolvedor",
+          "url": "https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview",
+          "link": "https://go.mymarketing.click/ofbr-area-do-desenvolvedor",
+          "description": "Las especificaciones de las APIs, de seguridad y de experiencia de usuario.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAPI do Open Finance",
+          "url": "https://github.com/OpenBanking-Brasil/openapi",
+          "link": "https://go.mymarketing.click/ofbr-openapi-do-open-finance",
+          "description": "Los archivos OpenAPI oficiales de las APIs.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações de segurança",
+          "url": "https://github.com/OpenBanking-Brasil/specs-seguranca",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-de-seguranca",
+          "description": "Los perfiles de seguridad FAPI y el uso de certificados en el ecosistema.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações do diretório",
+          "url": "https://github.com/OpenBanking-Brasil/specs-directory",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-do-diretorio",
+          "description": "Cómo funciona el directorio central de participantes.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mock API",
+          "url": "https://github.com/OpenBanking-Brasil/mock-api",
+          "link": "https://go.mymarketing.click/ofbr-mock-api",
+          "description": "Imagen Docker con respuestas de ejemplo de las APIs, para probar sin un banco.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Massa de dados",
+          "url": "https://github.com/OpenBanking-Brasil/massadedados",
+          "link": "https://go.mymarketing.click/ofbr-massa-de-dados",
+          "description": "Datos de prueba para las APIs.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Aplicações de exemplo",
+          "url": "https://github.com/OpenBanking-Brasil/applications-exemplo",
+          "link": "https://go.mymarketing.click/ofbr-aplicacoes-de-exemplo",
+          "description": "Ejemplos de aplicaciones que consumen las APIs.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "Datos abiertos del ecosistema",
+      "items": [
+        {
+          "name": "Participantes",
+          "url": "https://data.directory.openbankingbrasil.org.br/participants",
+          "link": "https://go.mymarketing.click/ofbr-participantes",
+          "description": "La lista pública de instituciones participantes, en JSON.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Painel do Open Finance",
+          "url": "https://dashboard.openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-painel-do-open-finance",
+          "description": "Los números del ecosistema: llamadas a la API, consentimientos y disponibilidad.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agregadores",
+      "title": "Agregadores e iniciadores",
+      "items": [
+        {
+          "name": "Belvo",
+          "url": "https://developers.belvo.com/",
+          "link": "https://go.mymarketing.click/ofbr-belvo",
+          "description": "API de datos financieros y pagos vía Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Iniciador",
+          "url": "https://www.iniciador.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-iniciador",
+          "description": "Iniciación de pagos por Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Klavi",
+          "url": "https://docs.klavi.ai/",
+          "link": "https://go.mymarketing.click/ofbr-klavi",
+          "description": "Datos de Open Finance para crédito y análisis de riesgo.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pluggy",
+          "url": "https://docs.pluggy.ai/",
+          "link": "https://go.mymarketing.click/ofbr-pluggy",
+          "description": "API para conectar cuentas y leer transacciones vía Open Finance.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "codigo",
+      "title": "Código abierto",
+      "items": [
+        {
+          "name": "Meu Pluggy",
+          "url": "https://github.com/pluggyai/meu-pluggy",
+          "link": "https://go.mymarketing.click/ofbr-meu-pluggy",
+          "description": "Aplicación para conectar tu propia cuenta a Open Finance y exportar los datos.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pix-automatico-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/pix-automatico-reference",
+          "link": "https://go.mymarketing.click/ofbr-pix-automatico-reference",
+          "description": "Implementación de referencia del Pix Automático con el flujo de consentimiento.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "open-finance-payments-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/open-finance-payments-reference",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-payments-reference",
+          "description": "Implementación de referencia en Java de un iniciador de pagos.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regulatorio-bcb-fundamentos",
+          "url": "https://github.com/Paulo-Marcos-Lucio/regulatorio-bcb-fundamentos-public",
+          "link": "https://go.mymarketing.click/ofbr-regulatorio-bcb-fundamentos",
+          "description": "Guía técnica introductoria a Pix, DICT, Open Finance y Susep.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pluggy-mcp-server",
+          "url": "https://github.com/brunopedrazza/pluggy-mcp-server",
+          "link": "https://go.mymarketing.click/ofbr-pluggy-mcp-server",
+          "description": "Servidor MCP de solo lectura para datos financieros personales vía Pluggy.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "banco-mcp",
+          "url": "https://github.com/douglac/banco-mcp",
+          "link": "https://go.mymarketing.click/ofbr-banco-mcp",
+          "description": "Servidor MCP de Open Finance para Claude y Cursor.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "logos-bancos-br",
+          "url": "https://github.com/rzmt/logos-bancos-br",
+          "link": "https://go.mymarketing.click/ofbr-logos-bancos-br",
+          "description": "Logotipos de bancos, fintechs y cooperativas brasileñas en PNG y SVG, por código COMPE.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Otras listas",
+      "items": [
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pix",
+          "description": "Normas, APIs y SDKs de Pix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome pagamentos Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-pagamentos-brasil",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pagamentos-brasil",
+          "description": "Pasarelas, adquirentes, boleto y antifraude.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

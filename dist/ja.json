@@ -1,0 +1,363 @@
+{
+  "slug": "awesome-open-finance-brasil",
+  "language": "ja",
+  "title": "Awesome Open Finance Brasil",
+  "description": "ブラジルのOpen FinanceとOpen Insurance：規則、仕様、オープンデータ、アグリゲーター、オープンソース。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "normas",
+      "title": "規制とガバナンス",
+      "items": [
+        {
+          "name": "Open Finance no Banco Central",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-no-banco-central",
+          "description": "規制、フェーズ、よくある質問をまとめた中央銀行のページ。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Finance Brasil",
+          "url": "https://openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-brasil",
+          "description": "市民と参加者向けのガバナンス構造のポータル。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance na Susep",
+          "url": "https://www.gov.br/susep/pt-br/assuntos/open-insurance",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-na-susep",
+          "description": "Susepが規制するオープン保険の仕組み。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Open Insurance Brasil",
+          "url": "https://opinbrasil.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-open-insurance-brasil",
+          "description": "Open Insuranceの構造のポータル。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "especificacoes",
+      "title": "仕様と開発者向けエリア",
+      "items": [
+        {
+          "name": "Área do desenvolvedor",
+          "url": "https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview",
+          "link": "https://go.mymarketing.click/ofbr-area-do-desenvolvedor",
+          "description": "API、セキュリティ、ユーザー体験の仕様。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAPI do Open Finance",
+          "url": "https://github.com/OpenBanking-Brasil/openapi",
+          "link": "https://go.mymarketing.click/ofbr-openapi-do-open-finance",
+          "description": "APIの公式OpenAPIファイル。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações de segurança",
+          "url": "https://github.com/OpenBanking-Brasil/specs-seguranca",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-de-seguranca",
+          "description": "エコシステムで使うFAPIセキュリティプロファイルと証明書の利用。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Especificações do diretório",
+          "url": "https://github.com/OpenBanking-Brasil/specs-directory",
+          "link": "https://go.mymarketing.click/ofbr-especificacoes-do-diretorio",
+          "description": "参加者の中央ディレクトリの仕組み。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mock API",
+          "url": "https://github.com/OpenBanking-Brasil/mock-api",
+          "link": "https://go.mymarketing.click/ofbr-mock-api",
+          "description": "銀行がなくてもテストできるよう、APIのサンプル応答を含むDockerイメージ。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Massa de dados",
+          "url": "https://github.com/OpenBanking-Brasil/massadedados",
+          "link": "https://go.mymarketing.click/ofbr-massa-de-dados",
+          "description": "APIのテスト用データ。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Aplicações de exemplo",
+          "url": "https://github.com/OpenBanking-Brasil/applications-exemplo",
+          "link": "https://go.mymarketing.click/ofbr-aplicacoes-de-exemplo",
+          "description": "APIを利用するアプリケーションの例。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "エコシステムのオープンデータ",
+      "items": [
+        {
+          "name": "Participantes",
+          "url": "https://data.directory.openbankingbrasil.org.br/participants",
+          "link": "https://go.mymarketing.click/ofbr-participantes",
+          "description": "参加機関の公開リスト（JSON）。",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Painel do Open Finance",
+          "url": "https://dashboard.openfinancebrasil.org.br/",
+          "link": "https://go.mymarketing.click/ofbr-painel-do-open-finance",
+          "description": "エコシステムの数値：APIコール、同意、可用性。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agregadores",
+      "title": "アグリゲーターとイニシエーター",
+      "items": [
+        {
+          "name": "Belvo",
+          "url": "https://developers.belvo.com/",
+          "link": "https://go.mymarketing.click/ofbr-belvo",
+          "description": "Open Financeによる金融データと決済のAPI。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Iniciador",
+          "url": "https://www.iniciador.com.br/",
+          "link": "https://go.mymarketing.click/ofbr-iniciador",
+          "description": "Open Financeによる決済の開始。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Klavi",
+          "url": "https://docs.klavi.ai/",
+          "link": "https://go.mymarketing.click/ofbr-klavi",
+          "description": "与信とリスク分析のためのOpen Financeデータ。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pluggy",
+          "url": "https://docs.pluggy.ai/",
+          "link": "https://go.mymarketing.click/ofbr-pluggy",
+          "description": "Open Financeで口座を接続し取引を読み取るためのAPI。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "codigo",
+      "title": "オープンソース",
+      "items": [
+        {
+          "name": "Meu Pluggy",
+          "url": "https://github.com/pluggyai/meu-pluggy",
+          "link": "https://go.mymarketing.click/ofbr-meu-pluggy",
+          "description": "自分の口座をOpen Financeに接続し、データをエクスポートするアプリケーション。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pix-automatico-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/pix-automatico-reference",
+          "link": "https://go.mymarketing.click/ofbr-pix-automatico-reference",
+          "description": "同意フローを備えたPix自動払いのリファレンス実装。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "open-finance-payments-reference",
+          "url": "https://github.com/Paulo-Marcos-Lucio/open-finance-payments-reference",
+          "link": "https://go.mymarketing.click/ofbr-open-finance-payments-reference",
+          "description": "Javaによる決済イニシエーターのリファレンス実装。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regulatorio-bcb-fundamentos",
+          "url": "https://github.com/Paulo-Marcos-Lucio/regulatorio-bcb-fundamentos-public",
+          "link": "https://go.mymarketing.click/ofbr-regulatorio-bcb-fundamentos",
+          "description": "Pix、DICT、Open Finance、Susepの入門的な技術ガイド。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pluggy-mcp-server",
+          "url": "https://github.com/brunopedrazza/pluggy-mcp-server",
+          "link": "https://go.mymarketing.click/ofbr-pluggy-mcp-server",
+          "description": "Pluggy経由の個人金融データ用の読み取り専用MCPサーバー。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "banco-mcp",
+          "url": "https://github.com/douglac/banco-mcp",
+          "link": "https://go.mymarketing.click/ofbr-banco-mcp",
+          "description": "ClaudeとCursor向けのOpen FinanceのMCPサーバー。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "logos-bancos-br",
+          "url": "https://github.com/rzmt/logos-bancos-br",
+          "link": "https://go.mymarketing.click/ofbr-logos-bancos-br",
+          "description": "COMPEコードで整理された、ブラジルの銀行、フィンテック、協同組合のロゴ（PNGとSVG）。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "他のリスト",
+      "items": [
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pix",
+          "description": "Pixの規格、API、SDK。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome pagamentos Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-pagamentos-brasil",
+          "link": "https://go.mymarketing.click/ofbr-awesome-pagamentos-brasil",
+          "description": "ゲートウェイ、アクワイアラー、ボレト、不正検知。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
